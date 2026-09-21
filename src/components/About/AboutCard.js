@@ -11,7 +11,7 @@ function AboutCard() {
             Hi everyone! I’m <span className="purple"> Ayush Chaudhari</span>{" "}
             from <span className="purple"> Arjundhara, Jhapa, Nepal</span>.
             <br />
-            I’m currently working as a Intern{" "}
+            Worked as a Intern{" "}
             <span className="purple">Software Developer</span> at{" "}
             <span className="purple">Byte Gurkha</span>.
             <br />I am currently pursuing an  Bsc.Hons Degree(IT) in{" "}
